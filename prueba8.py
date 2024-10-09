@@ -1,0 +1,1 @@
+print("Bola 8 va a ganar")
